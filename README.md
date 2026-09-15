@@ -44,9 +44,6 @@ J'adore transformer des idées complexes en interfaces fluides et performantes. 
 
 ### 📂 Projets Phares
 
-* **❤️ [Force Match](https://github.com/FARVACQUE-L/hackathon-starwarslove)** : Une application qui teste la compatibilité des personnages de Star Wars, développée avec l'écosystème React.
-    * *Stack : React, TypeScript, Express, Node.js*
-
 * **🎬 [Clap'n Pop](https://github.com/ChickenCodeSchool/Js-Crew-vert-wildwalker-P2-g1)** : Une plateforme divertissante dédiée aux passionnés de cinéma.
     * *Stack : React, React Router, Figma (UI/UX)*
 
